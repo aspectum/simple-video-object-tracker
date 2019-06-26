@@ -1,2 +1,4 @@
 # simple-video-object-tracker
 Simple object tracking in videos using SIFT and Kalman Filter from OpenCV
+
+Dataset from http://cmp.felk.cvut.cz/~vojirtom/dataset/tv77/
